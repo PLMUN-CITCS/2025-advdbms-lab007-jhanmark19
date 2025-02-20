@@ -1,5 +1,4 @@
 USE `UniversityDB`;
-
 INSERT INTO `Courses` (`CourseName`)
 VALUES
    ('Introduction to Computer Science'),
